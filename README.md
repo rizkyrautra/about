@@ -9,4 +9,4 @@ Latest CV dated: Dec 2023 (see 2023DEC_CV.pdf)
 Contact:
 
 * rautra@jawapos.com
-* homepage at JawaPos.com: https://www.lboro.ac.uk/schools/meme-dev-2023/staff/phd/irmasari-hafidz/
+* homepage at JawaPos.com:
