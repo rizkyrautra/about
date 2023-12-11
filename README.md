@@ -8,5 +8,5 @@ Latest CV dated: Dec 2023 (see 2023DEC_CV.pdf)
 
 Contact:
 
-* rautra@jawapos.com
-* homepage at JawaPos.com:
+* mochrizkypp@outlook.com
+* homepage at JawaPos.com: https://www.jawapos.com/author/6699/Moch.-Rizky-Pratama-Putra
