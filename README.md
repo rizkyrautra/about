@@ -2,7 +2,7 @@
 ---
 Moch. Rizky Pratama Putra
 
-Latest CV dated: Dec 2023 (see <a href="https://https://github.com/rizkyrautra/about/blob/main/2023DEC_RautraCV.pdf">2023DEC_RautraCV.pdf</a>)
+Latest CV dated: Dec 2023 (see <a href="https://github.com/rizkyrautra/about/blob/main/2023DEC_RautraCV.pdf">2023DEC_RautraCV.pdf</a>)
 
 * Google Scholar: https://scholar.google.com/citations?user=36TnUUoAAAAJ&hl=id
 
